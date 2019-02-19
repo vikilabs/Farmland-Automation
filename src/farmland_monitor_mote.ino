@@ -1,7 +1,7 @@
 /* Farmland Automation Mote: 
  *
  *   Author	: Vignesh Natarajan (a) Viki 
- *   Copyright 	: www.vikilabs.in	
+ *   Copyright 	: www.vikilabs.org	
  *   Date: 2015-10-1
  *
  *  This program is free software; you can redistribute it and/or modify
