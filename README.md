@@ -1,7 +1,5 @@
-# Farmland-Automation
+# Irrigation Mote 
 
-Farmland Monitoring Mote:
+This software is written for multi sensor device targeted for autonomous farming. The device is capable of monitoring soil temperature, air humidity, soil conductivity, soil pH values and pump the aggrigated data to the cloud using WiFi. 
 
-This device(mote) is used to monitor farmland. This mote can monitor soil temperature, air humidity, soil conductivity, soil pH values of the farmland area and send the aggrigated data to the cloud using WiFi. 
-
-For more details check vikilabs.in
+For more details check https://vikilabs.org
